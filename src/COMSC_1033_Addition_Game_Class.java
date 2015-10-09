@@ -6,6 +6,8 @@ public class COMSC_1033_Addition_Game_Class {
 		
 		// Round 1
 		//	Generate 2 random numbers
+		int number1 = (int)(Math.random()*10);
+		System.out.println("Random number 1 is: " + number1);
 		//  Ask the user to add these two numbers together
 		//  Read in their response
 		//  Check if the answer was correct
