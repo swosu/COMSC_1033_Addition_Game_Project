@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class COMSC_1033_Addition_Game_Class {
 	public static void main(String[] args) {
 		// This is the master branch.
-		
+
 		// Outline for addition problem.
 		int score = 0;
 		int hardness = 10;
