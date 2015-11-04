@@ -81,6 +81,9 @@ public class COMSC_1033_Addition_Game_Class {
 	
 	public static void outputFinalScore(){
 		System.out.println("Your final score is: " + score);
+		if(score==0){
+			System.out.println("Were you even trying?");
+		}
 	}
 	
 	public static void outputHardness(){
